@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Override the app bar color -->
+        <item name="android:colorPrimary">@color/my_blue</item>
+        <!-- Override the color of UI controls -->
+        <item name="android:colorAccent">@color/my_blue</item>
+        <!-- Override the color of UI controls -->
+        <item name="android:statusBarColor">@color/my_deepblue</item>
+        <!-- Override the color of UI controls -->
+        <item name="android:navigationBarColor">@color/my_deepblue</item>
+        <!-- Override the color of UI controls -->
+        <item name="android:windowBackground">@color/my_white</item>
+    </style>
+</resources>
