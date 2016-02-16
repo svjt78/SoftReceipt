@@ -1,2 +1,2 @@
 # SoftReceipt
-Personal Recept Management System
+Personal Receipt Management System
